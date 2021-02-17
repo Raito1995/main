@@ -1,3 +1,2 @@
 # main
-my-sister
-Test Pull
+AI scalp symptoms recognition and diagnosis system modules.
